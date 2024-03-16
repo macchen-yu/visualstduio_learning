@@ -1,0 +1,59 @@
+﻿  bonus.cpp
+  brick.cpp
+F:\video\visual_studio\chapter3\tank-1990\src\objects\brick.cpp(36,56): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\video\visual_studio\chapter3\tank-1990\src\objects\brick.cpp(53,28): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\video\visual_studio\chapter3\tank-1990\src\objects\brick.cpp(54,28): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\video\visual_studio\chapter3\tank-1990\src\objects\brick.cpp(59,34): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\video\visual_studio\chapter3\tank-1990\src\objects\brick.cpp(60,28): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\video\visual_studio\chapter3\tank-1990\src\objects\brick.cpp(65,28): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\video\visual_studio\chapter3\tank-1990\src\objects\brick.cpp(66,34): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\video\visual_studio\chapter3\tank-1990\src\objects\brick.cpp(71,28): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\video\visual_studio\chapter3\tank-1990\src\objects\brick.cpp(72,28): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\video\visual_studio\chapter3\tank-1990\src\objects\brick.cpp(77,34): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\video\visual_studio\chapter3\tank-1990\src\objects\brick.cpp(78,28): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\video\visual_studio\chapter3\tank-1990\src\objects\brick.cpp(83,34): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\video\visual_studio\chapter3\tank-1990\src\objects\brick.cpp(84,34): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\video\visual_studio\chapter3\tank-1990\src\objects\brick.cpp(89,28): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\video\visual_studio\chapter3\tank-1990\src\objects\brick.cpp(90,28): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\video\visual_studio\chapter3\tank-1990\src\objects\brick.cpp(95,28): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\video\visual_studio\chapter3\tank-1990\src\objects\brick.cpp(96,34): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  bullet.cpp
+F:\video\visual_studio\chapter3\tank-1990\src\objects\bullet.cpp(76,29): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\video\visual_studio\chapter3\tank-1990\src\objects\bullet.cpp(77,29): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\video\visual_studio\chapter3\tank-1990\src\objects\bullet.cpp(80,43): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\video\visual_studio\chapter3\tank-1990\src\objects\bullet.cpp(81,29): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\video\visual_studio\chapter3\tank-1990\src\objects\bullet.cpp(84,29): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\video\visual_studio\chapter3\tank-1990\src\objects\bullet.cpp(85,43): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\video\visual_studio\chapter3\tank-1990\src\objects\bullet.cpp(88,29): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\video\visual_studio\chapter3\tank-1990\src\objects\bullet.cpp(89,29): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  eagle.cpp
+F:\video\visual_studio\chapter3\tank-1990\src\objects\eagle.cpp(44,25): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\video\visual_studio\chapter3\tank-1990\src\objects\eagle.cpp(45,25): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  enemy.cpp
+  object.cpp
+F:\video\visual_studio\chapter3\tank-1990\src\objects\object.cpp(32,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\video\visual_studio\chapter3\tank-1990\src\objects\object.cpp(33,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\video\visual_studio\chapter3\tank-1990\src\objects\object.cpp(37,24): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\video\visual_studio\chapter3\tank-1990\src\objects\object.cpp(38,24): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\video\visual_studio\chapter3\tank-1990\src\objects\object.cpp(58,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\video\visual_studio\chapter3\tank-1990\src\objects\object.cpp(59,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\video\visual_studio\chapter3\tank-1990\src\objects\object.cpp(63,24): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\video\visual_studio\chapter3\tank-1990\src\objects\object.cpp(64,24): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\video\visual_studio\chapter3\tank-1990\src\objects\object.cpp(83,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\video\visual_studio\chapter3\tank-1990\src\objects\object.cpp(84,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\video\visual_studio\chapter3\tank-1990\src\objects\object.cpp(88,24): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\video\visual_studio\chapter3\tank-1990\src\objects\object.cpp(89,24): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  player.cpp
+F:\video\visual_studio\chapter3\tank-1990\src\objects\player.cpp(103,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\video\visual_studio\chapter3\tank-1990\src\objects\player.cpp(104,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  tank.cpp
+F:\video\visual_studio\chapter3\tank-1990\src\objects\tank.cpp(84,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\video\visual_studio\chapter3\tank-1990\src\objects\tank.cpp(85,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\video\visual_studio\chapter3\tank-1990\src\objects\tank.cpp(211,53): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\video\visual_studio\chapter3\tank-1990\src\objects\tank.cpp(214,53): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\video\visual_studio\chapter3\tank-1990\src\objects\tank.cpp(219,53): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\video\visual_studio\chapter3\tank-1990\src\objects\tank.cpp(222,53): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\video\visual_studio\chapter3\tank-1990\src\objects\tank.cpp(308,25): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\video\visual_studio\chapter3\tank-1990\src\objects\tank.cpp(309,25): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+  objects.vcxproj -> F:\video\visual_studio\chapter3\tank-1990\Debug\objects.lib

@@ -1,0 +1,7 @@
+﻿  game.cpp
+F:\video\visual_studio\chapter3\tank-1990\src\app_state\game.cpp(101,21): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\video\visual_studio\chapter3\tank-1990\src\app_state\game.cpp(218,77): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\video\visual_studio\chapter3\tank-1990\src\app_state\game.cpp(225,70): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\video\visual_studio\chapter3\tank-1990\src\app_state\game.cpp(256,29): warning C4018: “<”: 有符号/无符号不匹配
+F:\video\visual_studio\chapter3\tank-1990\src\app_state\game.cpp(899,33): warning C4018: “>=”: 有符号/无符号不匹配
+  app_state.vcxproj -> F:\video\visual_studio\chapter3\tank-1990\Debug\app_state.lib

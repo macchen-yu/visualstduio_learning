@@ -1,0 +1,4 @@
+F:/video/visual_studio/chapter4/demo/build/CMakeFiles/ALL_BUILD.dir
+F:/video/visual_studio/chapter4/demo/build/CMakeFiles/ZERO_CHECK.dir
+F:/video/visual_studio/chapter4/demo/build/src/CMakeFiles/network.dir
+F:/video/visual_studio/chapter4/demo/build/src/CMakeFiles/nn.dir

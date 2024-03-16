@@ -1,0 +1,4 @@
+﻿  renderer.cpp
+F:\video\visual_studio\chapter3\tank-1990\src\engine\renderer.cpp(79,114): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\video\visual_studio\chapter3\tank-1990\src\engine\renderer.cpp(80,85): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  engine.vcxproj -> F:\video\visual_studio\chapter3\tank-1990\Debug\engine.lib
